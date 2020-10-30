@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'CMFirstPod_Example' do
+  pod 'CMFirstPod', :path => '../'
+
+  target 'CMFirstPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
