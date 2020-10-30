@@ -1,0 +1,6 @@
+framework module CMFirstPod {
+  umbrella header "CMFirstPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

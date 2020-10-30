@@ -1,0 +1,16 @@
+PODS:
+  - CMFirstPod (0.1.0)
+
+DEPENDENCIES:
+  - CMFirstPod (from `../`)
+
+EXTERNAL SOURCES:
+  CMFirstPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CMFirstPod: 33a8319b021d7f20238c5bf71ac06b374e2e0862
+
+PODFILE CHECKSUM: 149a442d302b853adcbe0923fc0fae13f7687793
+
+COCOAPODS: 1.9.1
